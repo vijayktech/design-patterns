@@ -1,0 +1,4 @@
+package com.designs.creational.facade;
+
+public class ReportFooter {
+}

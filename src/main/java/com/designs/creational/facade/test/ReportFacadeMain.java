@@ -1,7 +1,7 @@
-package com.designs.facade.test;
+package com.designs.creational.facade.test;
 
-import com.designs.facade.ReportGeneratorFacade;
-import com.designs.facade.ReportType;
+import com.designs.creational.facade.ReportGeneratorFacade;
+import com.designs.creational.facade.ReportType;
 
 public class ReportFacadeMain {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.designs.builder;
+package com.designs.creational.builder;
 
 public class User {
     private final String firstName; // required

@@ -1,4 +1,4 @@
-package com.designs.facade;
+package com.designs.creational.facade;
 
 import javax.sql.DataSource;
 
